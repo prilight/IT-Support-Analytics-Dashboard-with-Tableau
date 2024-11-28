@@ -1,11 +1,11 @@
-# IT Support Analytics Dashboard
+ # IT Support Analytics Dashboard
 
 ## Project Overview
 This project leverages Tableau to analyze IT ticketing data with the goal of identifying key drivers of customer satisfaction and operational inefficiencies. The dashboard provides actionable insights for improving IT support services.
 
 ## Key Features
 - **Heatmap:** Visualizes satisfaction and days open by requestor seniority to highlight disparities in support quality.
-- **Scatter Plot:** Analyzes critical-severity tickets, showing trends between days open and satisfaction scores to identify inefficiencies.
+- **Scatter Plot:** Analyzes critical-severity tickets, showing trends between d hays open and satisfaction scores to identify inefficiencies.
 - **Interactive Dashboard:** Allows users to filter by ticket type, severity, and requestor seniority for deeper analysis.
 
 ## Tools Used
