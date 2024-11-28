@@ -1,5 +1,14 @@
  # IT Support Analytics Dashboard
 
+ ## Table of Contents
+ - [Project Overview](#project-overview)
+ - [Key Features](#key-features)
+ - [Tools Used](#tools-used)
+ - [Dataset](#dataset)
+ - [Key Insights](#key-insights)
+ - [Future Improvements](#future-improvements)
+ - [Live Dashboard](#live-dashboard)
+   
 ## Project Overview
 This project leverages Tableau to analyze IT ticketing data with the goal of identifying key drivers of customer satisfaction and operational inefficiencies. The dashboard provides actionable insights for improving IT support services.
 
@@ -35,3 +44,7 @@ The dataset includes:
 - Incorporate advanced regression analysis to quantify relationships between variables.
 - Expand the dataset to include more metadata, such as ticket resolution methods or team workload.
 - Automate the dashboard with real-time data feeds for continuous monitoring.
+  
+## Live Dashboard
+Explore the live interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/precious.gift.joshua/viz/ITSupporttoImproveCustomerSatisfaction/Dashboard1).
+
